@@ -1,4 +1,5 @@
-Emotion_Detection_ResNet50
+Emotion_Detection
+Using Resnet50v2 , data aguentation, VGG16
 
 Dataset link...https://www.kaggle.com/datasets/msambare/fer2013/data
 
